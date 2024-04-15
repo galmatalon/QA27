@@ -1,0 +1,25 @@
+body{
+	text-align:center;
+	background-color: red;
+
+}
+
+img {
+	height:300px;
+	border-radius: 20%;
+	padding: 10px;
+}
+
+#nicetitle {
+	background-image: conic-gradient(#553c9a, #ee4b2b, #00c2cb);
+}
+
+.blue {
+	border: 2px solid blue;
+}
+
+.box{
+	background-color: blue;
+	color: white;
+}
+
